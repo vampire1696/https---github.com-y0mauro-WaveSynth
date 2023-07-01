@@ -1,0 +1,33 @@
+{
+  "name": "WaveSynth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.2.1",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "@types/react-dropzone": "^5.1.0",
+    "@types/wavesurfer.js": "^6.0.6",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "leapjs": "^1.1.1",
+    "next": "13.4.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.1",
+    "typescript": "5.0.4",
+    "wavesurfer-react": "^2.2.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
